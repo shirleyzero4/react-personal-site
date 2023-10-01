@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shirleyzero4.github.io/static/css/main.0090f75c.css",
-    "main.js": "/shirleyzero4.github.io/static/js/main.788ff6ed.js",
-    "static/media/test-screen.png": "/shirleyzero4.github.io/static/media/test-screen.c19bb0c116409ba2e2a1.png",
-    "index.html": "/shirleyzero4.github.io/index.html",
-    "main.0090f75c.css.map": "/shirleyzero4.github.io/static/css/main.0090f75c.css.map",
-    "main.788ff6ed.js.map": "/shirleyzero4.github.io/static/js/main.788ff6ed.js.map"
+    "main.css": "/static/css/main.0090f75c.css",
+    "main.js": "/static/js/main.ee06c30e.js",
+    "static/media/test-screen.png": "/static/media/test-screen.c19bb0c116409ba2e2a1.png",
+    "index.html": "/index.html",
+    "main.0090f75c.css.map": "/static/css/main.0090f75c.css.map",
+    "main.ee06c30e.js.map": "/static/js/main.ee06c30e.js.map"
   },
   "entrypoints": [
     "static/css/main.0090f75c.css",
-    "static/js/main.788ff6ed.js"
+    "static/js/main.ee06c30e.js"
   ]
 }
