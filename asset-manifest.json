@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-personal-site/static/css/main.698f87d6.css",
-    "main.js": "/react-personal-site/static/js/main.3f9818c0.js",
+    "main.css": "/react-personal-site/static/css/main.5e3c507e.css",
+    "main.js": "/react-personal-site/static/js/main.f6a84648.js",
     "static/media/grad-pic.jpg": "/react-personal-site/static/media/grad-pic.a2aa4c2e21978eb5ba2e.jpg",
+    "static/media/Shirley_Resume_June (2).pdf": "/react-personal-site/static/media/Shirley_Resume_June (2).5566a05cfffd126131e6.pdf",
     "static/media/personal-site.png": "/react-personal-site/static/media/personal-site.7bf05b58218ac9eb7c19.png",
     "index.html": "/react-personal-site/index.html",
-    "main.698f87d6.css.map": "/react-personal-site/static/css/main.698f87d6.css.map",
-    "main.3f9818c0.js.map": "/react-personal-site/static/js/main.3f9818c0.js.map"
+    "main.5e3c507e.css.map": "/react-personal-site/static/css/main.5e3c507e.css.map",
+    "main.f6a84648.js.map": "/react-personal-site/static/js/main.f6a84648.js.map"
   },
   "entrypoints": [
-    "static/css/main.698f87d6.css",
-    "static/js/main.3f9818c0.js"
+    "static/css/main.5e3c507e.css",
+    "static/js/main.f6a84648.js"
   ]
 }
