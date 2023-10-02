@@ -4,8 +4,9 @@
     column-gap: 4rem;
 }
 
-.about-img {
+.picture-img {
     justify-self: center;
+    width: 450px;
 }
 
 .about-description-1, .about-description-2, .about-description-3 {
@@ -45,8 +46,8 @@
         row-gap: 2.5rem;
     }
 
-    .about-img {
-        width: 220px;
+    .picture-img {
+        width: 550px;
     }
 
     .about-data {

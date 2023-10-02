@@ -41,7 +41,7 @@
 /* PROJECT CARDS */
 .project-card {
     display: flex;
-    margin-bottom: 30rem;
+    margin-bottom: 20rem;
 }
 
 .project-img {
@@ -88,4 +88,55 @@
     border-radius: 0.25rem;
     height: 150px;
     width: 425px;
+}
+
+.project-stack {
+    display: flex;
+    justify-content: flex-end;
+    gap: 3rem;
+}
+
+.project-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.project-links > a {
+    color: hsl(0, 0%, 20%);
+    font-size: 1.25rem;
+}
+
+.project-links > a:hover {
+    color: hsl(0, 0%, 46%);
+}
+
+/* MOBILE DEVICES */
+@media screen and (max-width: 992px) {
+
+    .project-card {
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 2.5rem;
+        background-color: #fff;
+        padding: 3rem;
+        border-radius: 0.5rem;
+        width: 100%;
+    }
+
+    .featured-project {
+        display: none;
+    }
+
+    .project-img {
+        position: relative;
+        align-items: center;
+        left: 0%;
+    }
+
+    .project-card-des {
+        position: relative;
+        text-align: center;
+        right: 0%;
+    }
 }
