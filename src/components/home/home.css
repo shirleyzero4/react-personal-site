@@ -45,6 +45,10 @@
     transition: transform .2s ease-in-out;
 }
 
+.resume-button > a {
+    color: #fff;
+}
+
 .resume-button:hover {
     cursor: pointer;
     transform: translate3d(-0.1rem, -0.15rem, 0);

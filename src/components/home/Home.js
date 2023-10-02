@@ -3,6 +3,7 @@ import Stack from "./Stack";
 import Social from "./Social";
 import ReactTyped from "react-typed";
 import "./home.css";
+import Resume from "../../assets/Shirley_Resume_June (2).pdf";
 
 export default function Home() {
     return (
@@ -32,7 +33,7 @@ export default function Home() {
                 <Stack /> 
 
                 <div className="button resume-button">
-                    <i className="uil uil-file"></i> Resume
+                    <a href={Resume} target="_blank"><i className="uil uil-file"></i> Resume</a>
                 </div> 
             </div>    
 

@@ -96,7 +96,7 @@ export default function Project() {
                     <div className={toggleState === 3
                         ? "project-content project-content-active" 
                         : "project-content" }>
-                        <div>Temp Block 3</div>
+                        {/* <div>Temp Block 3</div> */}
                     </div>
                 </div>
             </div>
